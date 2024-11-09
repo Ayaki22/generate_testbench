@@ -6,7 +6,7 @@
 </center>
 
 # About
-This repository is what I used to generate testbench when I was learning Verilog. It has two purposes, generating testbench for combination circuit or sequential circuit.You only need to use command to quickly generate it.
+This repository is what I used to generate testbench when I was learning Verilog. It has two purposes, generating testbench for combination circuit or sequential circuit. You only need to use command to quickly generate it.
 
 # Getting Started
 ### Installation
