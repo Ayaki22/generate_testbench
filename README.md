@@ -20,6 +20,7 @@ git clone https://github.com/Ayaki22/generate_testbench.git
 python gtb_comb.py [your verilog(.v)] --randomize --rand_count [random number of times you want]
 ```
 * Sequential circuit
+
 Don't forget to change the clock and reset signal names.
 ```
 python gtb_seq.py [your verilog(.v)] --clock [your clock name] --reset [your reset name] --randomize --rand_count [random number of times you want]
