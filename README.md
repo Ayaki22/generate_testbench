@@ -31,5 +31,5 @@ python gtb_comb.py ./MUX/MUX2to1.v --randomize --rand_count 10
 ```
 * Sequential circuit
 ```
-python gtb_seq.py ./FDiv/Acc32.v --clock clk --reset reset --randomize --rand_count 5
+python gtb_seq.py ./Acc/Acc32.v --clock clk --reset reset --randomize --rand_count 5
 ```
